@@ -17,9 +17,18 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
