@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
+| [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Simulation
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
