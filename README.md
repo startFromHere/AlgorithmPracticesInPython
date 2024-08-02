@@ -21,6 +21,7 @@
 | [0027-remove-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Simulation
@@ -38,8 +39,21 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
