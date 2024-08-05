@@ -37,6 +37,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
