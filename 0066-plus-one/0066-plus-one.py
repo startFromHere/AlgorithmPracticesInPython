@@ -3,15 +3,12 @@ class Solution:
         ans = digits
         n = len(digits)
         i = n-1
-        if digits[i] < 9:
+        while ans[i] == 9:
+            ans[i] = 0
+            i -= 1
+            if i < 0:
+                ans.insert(0, 1)
+                break
+        if i >= 0:
             ans[i] += 1
-        else:
-            while ans[i] == 9:
-                ans[i] = 0
-                i -= 1
-                if i < 0:
-                    ans.insert(0, 1)
-                    break
-            if i >= 0:
-                ans[i] += 1
         return ans
