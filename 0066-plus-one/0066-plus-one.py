@@ -6,7 +6,7 @@ class Solution:
         if digits[i] < 9:
             ans[i] += 1
         else:
-            while i >= 0 and ans[i] == 9:
+            while ans[i] == 9:
                 ans[i] = 0
                 i -= 1
                 if i < 0:
