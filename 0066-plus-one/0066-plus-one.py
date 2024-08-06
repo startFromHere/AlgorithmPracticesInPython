@@ -7,8 +7,6 @@ class Solution:
             ans[i] = 0
             i -= 1
             if i < 0:
-                ans.insert(0, 1)
-                break
-        if i >= 0:
-            ans[i] += 1
+                return [1] + ans
+        ans[i] += 1
         return ans
