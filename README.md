@@ -30,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Simulation
@@ -52,6 +53,7 @@
 | [0015-3sum](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0274-h-index) |
 ## String
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
