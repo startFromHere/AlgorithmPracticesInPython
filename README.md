@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
