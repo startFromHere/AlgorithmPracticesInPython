@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Simulation
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
