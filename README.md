@@ -31,6 +31,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
