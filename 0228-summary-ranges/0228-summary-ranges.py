@@ -1,9 +1,5 @@
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
-        # if not nums:
-        #     return []
-        
-        
         nums.append(-inf)
         l, r = nums[0], nums[0]-1
         ans = []
