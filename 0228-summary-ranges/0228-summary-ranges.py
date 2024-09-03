@@ -1,8 +1,10 @@
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
-        if not nums:
-            return []
+        # if not nums:
+        #     return []
         
+        
+        nums.append(-inf)
         l, r = nums[0], nums[0]-1
         ans = []
         for n in nums:
@@ -11,7 +13,6 @@ class Solution:
             else:
                 ans.append(str(l) if l == r else str(l)+"->"+str(r))
                 l, r = n, n
-        ans.append(str(l) if l == r else str(l)+"->"+str(r))
         return ans
                  
 
