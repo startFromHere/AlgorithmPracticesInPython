@@ -123,6 +123,7 @@
 | [0012-integer-to-roman](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
