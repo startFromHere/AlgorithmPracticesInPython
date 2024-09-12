@@ -42,6 +42,7 @@
 | [0274-h-index](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Simulation
 |  |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2727-number-of-senior-citizens](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -103,6 +105,7 @@
 | [0290-word-pattern](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0383-ransom-note) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,4 +199,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
