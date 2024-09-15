@@ -173,6 +173,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0141-linked-list-cycle) |
 ## Sliding Window
 |  |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
