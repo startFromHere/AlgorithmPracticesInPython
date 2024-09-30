@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
 ## Design
@@ -24,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0066-plus-one) |
@@ -57,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0125-valid-palindrome) |
@@ -143,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0070-climbing-stairs) |
@@ -240,4 +244,8 @@
 | [0002-add-two-numbers](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
