@@ -28,6 +28,7 @@
 | [0036-valid-sudoku](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -51,6 +52,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -254,4 +256,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
