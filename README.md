@@ -32,6 +32,7 @@
 | [0054-spiral-matrix](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@
 | [0012-integer-to-roman](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0202-happy-number) |
@@ -260,4 +262,5 @@
 | [0036-valid-sudoku](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
