@@ -36,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0128-longest-consecutive-sequence) |
@@ -128,6 +129,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -215,6 +217,7 @@
 | [0100-same-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0226-invert-binary-tree) |
@@ -240,6 +243,7 @@
 | [0100-same-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0226-invert-binary-tree) |
@@ -273,4 +277,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
