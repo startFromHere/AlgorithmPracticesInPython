@@ -134,6 +134,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0222-count-complete-tree-nodes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
