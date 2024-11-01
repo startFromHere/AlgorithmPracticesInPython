@@ -24,6 +24,7 @@
 | [0015-3sum](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
@@ -71,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/startFromHere/AlgorithmPracticesInPython/tree/master/0088-merge-sorted-array) |
